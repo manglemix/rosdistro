@@ -7513,6 +7513,10 @@ python3-pyee:
   fedora: [python3-ee]
   opensuse: [python3-pyee]
   ubuntu: [python3-pyee]
+python3-pyenet-pip:
+  ubuntu:
+    pip:
+      packages: [pyenet]
 python3-pyftdi-pip:
   debian:
     pip:
